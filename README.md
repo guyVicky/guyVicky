@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Vikrant Singh, an Undergraduate Student of Computer Science.
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyVicky&" alt="guyVicky" /></p>
 
 
