@@ -2,6 +2,7 @@
 
 #### I'm Vikrant Singh, an Undergraduate Student of Computer Science.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&locale=en" alt="guyVicky" /></p>
 
 <!--
 **guyVicky/guyVicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
