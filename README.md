@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Vikrant Singh, an Undergraduate Student of Computer Science.
+#### I'm Vikrant, an Undergraduate Student of Computer Science.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&locale=en" alt="guyVicky" /></p>
 
