@@ -9,10 +9,10 @@
 [![Instagram Badge](https://img.shields.io/badge/v__ikran__t-C13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/v_ikran_t/)](https://www.instagram.com/v_ikran_t/)
 
 <hr width="33%">
-</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&locale=en" alt="guyVicky" /></p>
-<div align="center">
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&locale=en" alt="guyVicky" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyVicky&layout=compact&theme=buefy&hide_border=true" /> |
+| --- | --- |
+
 <hr width="33%">
 </div>
 
