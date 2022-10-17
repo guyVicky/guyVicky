@@ -10,7 +10,7 @@
 
 <hr width="33%">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&locale=en" alt="guyVicky" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyVicky&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyVicky&show_icons=true&theme=dark&locale=en&hide_border=true" alt="guyVicky" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyVicky&layout=compact&theme=dark&hide_border=true" /> |
 | --- | --- |
 
 <hr width="33%">
