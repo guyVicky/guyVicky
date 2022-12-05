@@ -1,6 +1,6 @@
 <h1 size="78" align="center">🙏 नमस्कार 🙏</h1>
 
-<h3 align="center"> I'm Vikrant, an Undergraduate Student of Computer Science.</h4>
+<h3 align="center"> I'm Vikrant, an Undergraduate Student of Computer Science.</h3>
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-ikran-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikran/)](https://www.linkedin.com/in/ikran/)
