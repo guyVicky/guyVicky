@@ -35,7 +35,7 @@ jobs:
       
         with:
           target_branch: svgs
-          build_dir: @svgs
+          build_dir: ©svgs
           
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
